@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @samir-chhetri
-- 👀 I’m interested in ...not sure
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python projects
+
 - 📫 How to reach me ...zofixruz@gmail.com
 
 <!---
