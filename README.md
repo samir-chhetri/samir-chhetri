@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Quality Assurance (QA) professional at Debugsoft Pvt. Ltd.<br>I am learning new tools and methodologies in testing, automation, and software engineering to improve my skills and work quality.<br>
+I am currently working as a Quality Assurance (QA). Ltd.<br>I am learning new tools and methodologies in testing, automation, and software engineering to improve my skills and work quality.<br>
 
 
 ## 🌐 Socials:
